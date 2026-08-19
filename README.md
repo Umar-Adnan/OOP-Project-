@@ -1,4 +1,4 @@
-# Bank Account Simulator (C++)
+# Bank Account Simulator 
 
 A console-based bank account simulator demonstrating OOP concepts in C++ using an abstract base class (`Account`) and two derived classes (`SavingsAccount`, `CheckingAccount`). The program lets you create one savings and one checking account, then interact with them through a menu (deposit, withdraw, transfer, apply interest, display details).
 
